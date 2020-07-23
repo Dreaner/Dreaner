@@ -5,11 +5,12 @@
 ```javascript
 class WhoAmI:
  	user = 'Dreaner'
-	hobbies = [
-				'Playing soccer',
-				'Watching movies',
-				'Reading poems...'
-			]
+	hobbies = 
+	[
+		'Playing soccer',
+		'Watching movies',
+		'Reading poems...'
+	]
 	
 	def getCity():
 		retrun Yangzhou_China()
