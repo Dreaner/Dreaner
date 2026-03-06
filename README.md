@@ -9,7 +9,7 @@ class WhoAmI:
 	[
 		'Playing soccer',
 		'Watching movies',
-		'Reading poems...'
+		'Taking photos'
 	]
 	
 	def getCity():
