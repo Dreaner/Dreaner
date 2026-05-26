@@ -4,7 +4,7 @@
 
 ```javascript
 class WhoAmI:
- 	user = 'Dreaner'
+ 	user = 'Xingnan'
 	hobbies = 
 	[
 		'Playing soccer',
@@ -12,8 +12,8 @@ class WhoAmI:
 		'Taking photos'
 	]
 	
-	def getCity():
-		return Yangzhou_China()
+	def getCurrentCity():
+		return Madrid_Spain()
 	
 	def Ambitions():
 		LearnFilming()
